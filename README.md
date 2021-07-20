@@ -2,8 +2,6 @@
 <!--
 **ParthJohri/ParthJohri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Java Script.
 - 👯 I’m looking to collaborate on HTML,CSS PROJECTS.
@@ -13,4 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I completed Naruto and Shippuden 🍜 in 1 month
 <h2>My Stats</h2>
+<hr>
  <img src="https://github-readme-stats.vercel.app/api?username=ParthJohri&&show_icons=true&title_color=348781&icon_color=008b8b&text_color=008B8B&bg_color=E0FFFF">
+<hr>
+<h3>Let's Collaborate and make something productive👨🏽‍💻</h3>
