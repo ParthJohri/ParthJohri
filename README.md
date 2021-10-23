@@ -9,9 +9,15 @@
 - 💬 Ask me about HTML, CSS, JAVA, C.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/parthjohri07/">LinkedIn</a>
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact: I completed Naruto and Shippuden 🍜 in 1 month
-<h2>My Stats</h2>
+<h2>My Github Stats</h2>
 <hr>
  <img src="https://github-readme-stats.vercel.app/api?username=ParthJohri&&show_icons=true&title_color=348781&icon_color=008b8b&text_color=008B8B&bg_color=E0FFFF">
 <hr>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ParthJohri/count.svg" />
+</p>
+
+<p align="center">Thanks for visiting 🙂</p>
 <h3>Let's Collaborate and make something productive👨🏽‍💻</h3>
