@@ -3,7 +3,6 @@
 <h3 align="center">A passionate coder from DTU.</h3>
 
 ![](https://komarev.com/ghpvc/?username=ParthJohri&color=red&style=flat-square)
-<img src="https://komarev.com/ghpvc/?username=parthjohri&label=Profile%20views&color=9F0E31&style=flat" alt="parthjohri" />
 
 <p align="left"> <a href="https://twitter.com/parthjohri07" target="blank"><img src="https://img.shields.io/twitter/follow/parthjohri07?logo=twitter&style=for-the-badge" alt="parthjohri07" /></a> </p>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
