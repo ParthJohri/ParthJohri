@@ -31,7 +31,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=parthjohri&show_icons=true&theme=radical&locale=en" alt="parthjohri" width="430" height="100%"/>
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthjohri&show_icons=true&theme=radical&locale=en&layout=compact" alt="parthjohri" width="369" height="90%"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthjohri&show_icons=true&theme=radical&locale=en&layout=compact" alt="parthjohri" width="369" height="70%"/>
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthjohri&theme=radical"
  alt="parthjohri" width="430" height="100%"/>
