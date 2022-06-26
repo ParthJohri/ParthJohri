@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ParthJohri&color=red&style=flat-square)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
 
 - 🔭 I’m currently working on **Web Development👨🏽‍💻**
@@ -34,7 +34,7 @@
 
 <h3 align="left">Github Stats:</h3>
  
-<img width="500" hspace="34" src="https://github-readme-stats.vercel.app/api?username=parthjohri&show_icons=true&theme=radical&locale=en"><img width="419" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthjohri&show_icons=true&theme=radical&locale=en&layout=compact">
+<img width="500" hspace="34" src="https://github-readme-stats.vercel.app/api?username=parthjohri&show_icons=true&theme=radical&locale=en"><img width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthjohri&show_icons=true&theme=radical&locale=en&layout=compact">
 
 <div align="center">
  
