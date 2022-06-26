@@ -30,11 +30,17 @@
 
 <h3 align="left">LeetCode Stats:</h3>
 
+
+<div align="center">
+ 
 ![LeetCode Stats](https://leetcode.card.workers.dev/binarysolver?theme=auto&font=baloo&extension=null)
+ 
+</div>
+
 
 <h3 align="left">Github Stats:</h3>
  
-<img width="430" hspace="25" src="https://github-readme-stats.vercel.app/api?username=parthjohri&show_icons=true&theme=radical&locale=en"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthjohri&show_icons=true&theme=radical&locale=en&layout=compact">
+<img width="430" hspace="25" src="https://github-readme-stats.vercel.app/api?username=parthjohri&show_icons=true&theme=radical&locale=en"><img width="357" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthjohri&show_icons=true&theme=radical&locale=en&layout=compact">
 
 <div align="center">
  
