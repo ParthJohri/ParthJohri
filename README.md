@@ -69,5 +69,9 @@
 
 </div>
 
+<div align="center">
 
+![Snake animation](https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
  
