@@ -8,7 +8,7 @@
 
 - 👨🏽‍💻 I’m currently working on **Full-Stack Projects**
 
-- 🏋🏼‍♂️ I’m currently learning **Data Structures and Algorithms & CP**
+- 🏋 I’m currently learning **Data Structures and Algorithms & CP**
 
 - 🌏 I’m looking to collaborate on **Web Development Projects**
 
