@@ -131,7 +131,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 <details>
   <summary><h2> 🎯 Stats</h2></summary>
 
-  ### Leetcode Stats
+  ### Leetcode
   <div align="center">
  
   ![LeetCode Stats](https://leetcode.card.workers.dev/binarysolver?theme=auto&font=baloo&extension=null)
@@ -139,12 +139,13 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
   </div>
 
 
-  ### Codeforces Stats
+  ### Codeforces
   <div align="center">
  
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=binarysolver)
  
   </div>
+  
   ### GitHub
   <div align="center">
 
