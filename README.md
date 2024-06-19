@@ -132,7 +132,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
   - Innovated a facial expression-based movie recommendation engine, amplifying user engagement by **30%** through personalized suggestions based on mood analysis.
   - **Impact:** Enhanced movie exploration, resulting in an increase in user satisfaction by **10%** to **30%**.
 
-  #### <a href="https://github.com/ParthJohri/Medicine-Tracker">Medicine Tracker</>
+  #### <a href="https://github.com/ParthJohri/Medicine-Tracker">Medicine Tracker</a>
   <span><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></span>  
   - Integrated ordering medicines, facts, and quotes to lighten up the user, light/dark mode, with the future plan of integrating notification system and Calorie/BMI calculator.
 </details>
