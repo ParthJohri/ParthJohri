@@ -186,5 +186,10 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 </details>
 
 <p align="center">
+  <div align="center">
+
+   ![Snake animation](https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
 </p>
