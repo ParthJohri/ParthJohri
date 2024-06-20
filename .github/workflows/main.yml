@@ -10,9 +10,13 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Check out the repository
+      # Checkout Repository
       - name: Checkout Repository
         uses: actions/checkout@v2
+
+      # Ensure 'dist' directory exists
+      - name: Create 'dist' directory
+        run: mkdir -p dist
 
       # Snake Animation
       - name: Generate Snake SVG
