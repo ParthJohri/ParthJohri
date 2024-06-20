@@ -15,6 +15,8 @@ jobs:
         uses: Platane/snk@v3.2.0
         id: snake-gif
         with:
+          target_branch: main
+          build_dir: dist
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
