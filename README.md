@@ -180,7 +180,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 
 <p> 
  <i>You can reach out to me via</i> 
- <a href="mailto:parthjohri31@gmail.com">
+ <a href="mailto:contact.parthjohri@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22" alt="Email">
 </a>
 </p>
