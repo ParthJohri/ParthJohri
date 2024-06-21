@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋🏼, I'm Parth Johri</h2>
-<h3 align="center">
+<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/main/wave.gif" style="height:32px;"/>, I'm Parth Johri</h2>
+<h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 A Fullstack Web3 Developer
 <a href="https://parth-johri.vercel.app/">
