@@ -23,7 +23,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
   <summary><h4> 🎓 Academics</h2></summary>
 
   <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-9.57/10.0-EFEEE9?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
   
 </details>
  <details>
