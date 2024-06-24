@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/main/wave.gif" style="height:32px;"/>, I'm Parth Johri</h2>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"/>, I'm Parth Johri</h2>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 A Fullstack Web3 Developer
@@ -186,7 +186,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 </p>
 
 
-## 😁 Random Joke 
+## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Random Joke 
 
 <details>
   <summary>Click to see a random joke</summary>
