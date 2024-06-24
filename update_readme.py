@@ -70,5 +70,5 @@ def update_readme(contributions):
 
 if __name__ == "__main__":
     username = os.getenv('GITHUB_REPOSITORY_OWNER')
-    contributions = fetch_contributions(username)
+    contributions = fetch_contributions(ParthJohri)
     update_readme(contributions)
