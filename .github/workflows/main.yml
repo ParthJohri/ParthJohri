@@ -36,12 +36,7 @@ jobs:
         uses: jamesgeorge007/github-activity-readme@v0.4.4
         with:
           GH_USERNAME: ParthJohri
-          COMMIT_NAME: github-actions[bot]
-          COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
-          COMMIT_MSG: :zap: Update README with the recent activity
-          MAX_LINES: 5
           TARGET_FILE: README.md
-          EMPTY_COMMIT_MSG: :memo: empty commit to keep workflow active after 60 days of no activity
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
