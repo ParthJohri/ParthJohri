@@ -32,13 +32,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Specify a custom commit message"
-          MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
+      - name: GitHub - Activity - Readme
+        uses: jamesgeorge007/github-activity-readme@v0.4.4
+        
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
