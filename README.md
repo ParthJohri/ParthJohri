@@ -207,10 +207,10 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4145](https://github.com/hoppscotch/hoppscotch/issues/4145) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🗣 Commented on [#4143](https://github.com/hoppscotch/hoppscotch/issues/4143#issuecomment-2186266660) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🔒 Closed issue [#4143](https://github.com/hoppscotch/hoppscotch/issues/4143) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#4143](https://github.com/hoppscotch/hoppscotch/issues/4143#issuecomment-2186183573) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 💪 Opened PR [#4141](https://github.com/hoppscotch/hoppscotch/pull/4141) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🗣 Commented on [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7#issuecomment-2189148535) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+2. 🗣 Commented on [#1](https://github.com/monacodelisa/LGBTQ-definitions/issues/1#issuecomment-2188549890) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+3. 💪 Opened PR [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+4. 🗣 Commented on [#1757](https://github.com/hackforla/tdm-calculator/issues/1757#issuecomment-2188059456) in [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
+5. 🗣 Commented on [#4](https://github.com/monacodelisa/LGBTQ-definitions/issues/4#issuecomment-2188042861) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
 <!--END_SECTION:activity-->
 
