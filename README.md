@@ -12,7 +12,7 @@ A Fullstack Web3 Developer
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
 
-## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/main/about.png" alt="Man Technologist Light Skin Tone" width="37" /> About Me
+## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/main/icons/about.png" alt="Man Technologist Light Skin Tone" width="37" /> About Me
 
 I am a passionate Fullstack Web3 Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN, Web3, Android Development, and Chatbot Development</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
