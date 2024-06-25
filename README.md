@@ -17,17 +17,17 @@ A Fullstack Web3 Developer
 I am a passionate Fullstack Web3 Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN, Web3, Android Development, and Chatbot Development</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 <details>
- <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/about.png" width="37" /> Resume</h2></summary>
+ <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
  
  <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/academics.gif"  width="29"/> Academics</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
   <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
   
 </details>
  <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/experience.gif"  width="29"/> Experience</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
   - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
@@ -54,7 +54,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -101,7 +101,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/projects.gif"  width="29"/> Projects</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
   #### <a href="https://github.com/ParthJohri/rm-whatsapp-bot">RMNotices</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
@@ -141,7 +141,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/stats.gif"  width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   ### Leetcode
   <div align="center">
@@ -174,29 +174,29 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://github.com/ParthJohri">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/Github.gif" width="70"/>
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Github.gif" width="70"/>
   </a>
   <a href="https://linkedin.com/in/parthjohri07">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/Linkedin.gif" width="70"/>
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
   </a>
   <a href="https://www.quora.com/profile/Parth-Johri-6">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/Quora.gif" width="70"/>
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
   </a>
 </div>
 
   
 </details>
 
-## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/Contact.gif"  width="37"/> Contact Me
+## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
 
 <p> 
  <i>You can reach out to me via</i> 
 &nbsp;<a href="mailto:contact.parthjohri@gmail.com">
-     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/Gmail.gif"  width="100"/>
+     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
 
-### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/output/icons/activity.gif"  width="32"/> Recent Activity
+### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="32"/> Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#9](https://github.com/jamesgeorge007/jamesgeorge007/issues/9) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
@@ -221,8 +221,8 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/ParthJohri/blob/readME/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/readME/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/readME/github-contribution-grid-snake.svg">
   </picture>
 </div>
