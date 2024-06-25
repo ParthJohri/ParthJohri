@@ -41,10 +41,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  update_readme:
+  build:
     name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
-    needs: generate  # Ensure this job runs after the generate job
     permissions:
       contents: write
 
@@ -54,6 +53,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Update README with recent activity"
+          COMMIT_MSG: "Specify a custom commit message"
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
