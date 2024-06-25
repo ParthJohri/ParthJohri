@@ -180,10 +180,22 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 
 <p> 
  <i>You can reach out to me via</i> 
- <a href="mailto:contact.parthjohri@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22" alt="Email">
-</a>
+&nbsp;<a href="mailto:contact.parthjohri@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email">
+ </a>
 </p>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7#issuecomment-2189148535) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+2. 🗣 Commented on [#1](https://github.com/monacodelisa/LGBTQ-definitions/issues/1#issuecomment-2188549890) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+3. 💪 Opened PR [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+4. 🗣 Commented on [#1757](https://github.com/hackforla/tdm-calculator/issues/1757#issuecomment-2188059456) in [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
+5. 🗣 Commented on [#4](https://github.com/monacodelisa/LGBTQ-definitions/issues/4#issuecomment-2188042861) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+<!--END_SECTION:activity-->
+
+
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Random Joke 
 
@@ -203,14 +215,3 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
     <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7#issuecomment-2189148535) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-2. 🗣 Commented on [#1](https://github.com/monacodelisa/LGBTQ-definitions/issues/1#issuecomment-2188549890) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-3. 💪 Opened PR [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-4. 🗣 Commented on [#1757](https://github.com/hackforla/tdm-calculator/issues/1757#issuecomment-2188059456) in [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
-5. 🗣 Commented on [#4](https://github.com/monacodelisa/LGBTQ-definitions/issues/4#issuecomment-2188042861) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-<!--END_SECTION:activity-->
-
