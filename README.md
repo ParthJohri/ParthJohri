@@ -207,8 +207,10 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. ❗ Opened issue [#4145](https://github.com/hoppscotch/hoppscotch/issues/4145) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#4143](https://github.com/hoppscotch/hoppscotch/issues/4143#issuecomment-2186266660) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🔒 Closed issue [#4143](https://github.com/hoppscotch/hoppscotch/issues/4143) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🗣 Commented on [#4143](https://github.com/hoppscotch/hoppscotch/issues/4143#issuecomment-2186183573) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 💪 Opened PR [#4141](https://github.com/hoppscotch/hoppscotch/pull/4141) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
-
----
 
