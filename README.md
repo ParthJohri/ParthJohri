@@ -188,11 +188,11 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/monacodelisa/LGBTQ-definitions/issues/2#issuecomment-2189201298) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-2. 🗣 Commented on [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7#issuecomment-2189148535) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-3. 🗣 Commented on [#1](https://github.com/monacodelisa/LGBTQ-definitions/issues/1#issuecomment-2188549890) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-4. 💪 Opened PR [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-5. 🗣 Commented on [#1757](https://github.com/hackforla/tdm-calculator/issues/1757#issuecomment-2188059456) in [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
+1. 🗣 Commented on [#2](https://github.com/monacodelisa/LGBTQ-definitions/issues/2#issuecomment-2189323715) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+2. 🗣 Commented on [#2](https://github.com/monacodelisa/LGBTQ-definitions/issues/2#issuecomment-2189201298) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+3. 🗣 Commented on [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7#issuecomment-2189148535) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+4. 🗣 Commented on [#1](https://github.com/monacodelisa/LGBTQ-definitions/issues/1#issuecomment-2188549890) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+5. 💪 Opened PR [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
 <!--END_SECTION:activity-->
 
 
