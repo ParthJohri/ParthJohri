@@ -203,3 +203,12 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
     <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
