@@ -199,16 +199,16 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="32"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#616](https://github.com/implerhq/impler.io/issues/616#issuecomment-2190180785) in [implerhq/impler.io](https://github.com/implerhq/impler.io)
-2. 🗣 Commented on [#866](https://github.com/glasskube/glasskube/issues/866#issuecomment-2190152835) in [glasskube/glasskube](https://github.com/glasskube/glasskube)
-3. ❗ Opened issue [#9](https://github.com/jamesgeorge007/jamesgeorge007/issues/9) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-4. 🗣 Commented on [#2](https://github.com/monacodelisa/LGBTQ-definitions/issues/2#issuecomment-2189323715) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-5. 🗣 Commented on [#2](https://github.com/monacodelisa/LGBTQ-definitions/issues/2#issuecomment-2189201298) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-6. 🗣 Commented on [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7#issuecomment-2189148535) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-7. 🗣 Commented on [#1](https://github.com/monacodelisa/LGBTQ-definitions/issues/1#issuecomment-2188549890) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-8. 💪 Opened PR [#7](https://github.com/monacodelisa/LGBTQ-definitions/pull/7) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
-9. 🗣 Commented on [#1757](https://github.com/hackforla/tdm-calculator/issues/1757#issuecomment-2188059456) in [hackforla/tdm-calculator](https://github.com/hackforla/tdm-calculator)
-10. 🗣 Commented on [#4](https://github.com/monacodelisa/LGBTQ-definitions/issues/4#issuecomment-2188042861) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+1. 🗣 Commented on [#11](https://github.com/monacodelisa/LGBTQ-definitions/pull/11#issuecomment-2191921526) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+2. 🔒 Closed issue [#9](https://github.com/jamesgeorge007/jamesgeorge007/issues/9) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+3. 🗣 Commented on [#876](https://github.com/glasskube/glasskube/pull/876#issuecomment-2191578478) in [glasskube/glasskube](https://github.com/glasskube/glasskube)
+4. 🗣 Commented on [#876](https://github.com/glasskube/glasskube/pull/876#issuecomment-2191280496) in [glasskube/glasskube](https://github.com/glasskube/glasskube)
+5. 🗣 Commented on [#9](https://github.com/monacodelisa/LGBTQ-definitions/issues/9#issuecomment-2191253573) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+6. 💪 Opened PR [#11](https://github.com/monacodelisa/LGBTQ-definitions/pull/11) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+7. 🗣 Commented on [#10](https://github.com/monacodelisa/LGBTQ-definitions/pull/10#issuecomment-2191195161) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
+8. 🗣 Commented on [#866](https://github.com/glasskube/glasskube/issues/866#issuecomment-2191125482) in [glasskube/glasskube](https://github.com/glasskube/glasskube)
+9. 💪 Opened PR [#876](https://github.com/glasskube/glasskube/pull/876) in [glasskube/glasskube](https://github.com/glasskube/glasskube)
+10. 🗣 Commented on [#2](https://github.com/monacodelisa/LGBTQ-definitions/issues/2#issuecomment-2191056831) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
 <!--END_SECTION:activity-->
 
 
