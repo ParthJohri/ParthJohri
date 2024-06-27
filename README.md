@@ -196,6 +196,14 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
  </a>
 </p>
 
+<!--Start Count Merged PRs-->
+
+<!--Finish Count Merged PRs-->
+
+<!--Start Merged PRs-->
+
+<!--Finish Merged PRs-->
+
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="32"/> Recent Activity
 
 <!--START_SECTION:activity-->
@@ -231,3 +239,4 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
     <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
