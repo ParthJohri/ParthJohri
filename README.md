@@ -212,11 +212,11 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2192656530) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
-2. 🗣 Commented on [#374](https://github.com/pymc-labs/CausalPy/issues/374#issuecomment-2192508362) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-3. 💪 Opened PR [#379](https://github.com/pymc-labs/CausalPy/pull/379) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-4. 🗣 Commented on [#374](https://github.com/pymc-labs/CausalPy/issues/374#issuecomment-2192314382) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-5. 🗣 Commented on [#374](https://github.com/pymc-labs/CausalPy/issues/374#issuecomment-2192286642) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
+1. 🗣 Commented on [#379](https://github.com/pymc-labs/CausalPy/pull/379#issuecomment-2194593096) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
+2. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2194484644) in [actualbudget/actual](https://github.com/actualbudget/actual)
+3. 🗣 Commented on [#126](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2192656530) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
+4. 🗣 Commented on [#374](https://github.com/pymc-labs/CausalPy/issues/374#issuecomment-2192508362) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
+5. 💪 Opened PR [#379](https://github.com/pymc-labs/CausalPy/pull/379) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
 6. 🗣 Commented on [#11](https://github.com/monacodelisa/LGBTQ-definitions/pull/11#issuecomment-2191921526) in [monacodelisa/LGBTQ-definitions](https://github.com/monacodelisa/LGBTQ-definitions)
 7. 🔒 Closed issue [#9](https://github.com/jamesgeorge007/jamesgeorge007/issues/9) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
 8. 🗣 Commented on [#876](https://github.com/glasskube/glasskube/pull/876#issuecomment-2191578478) in [glasskube/glasskube](https://github.com/glasskube/glasskube)
