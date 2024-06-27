@@ -196,6 +196,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
  </a>
 </p>
 
+### ✅ Merged PRs
 <!--Start Count Merged PRs-->
 
 <!--Finish Count Merged PRs-->
@@ -204,7 +205,7 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 
 <!--Finish Merged PRs-->
 
-### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="32"/> Recent Activity
+### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#126](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2192656530) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
