@@ -23,7 +23,7 @@ if __name__ == "__main__":
          new_repo_url = re.sub(r'/pull/\d+', '', pull_request_url)
          serial_number = count + 1
          
-         pr_list.append(f"{serial_number}. {emoticon} Merged PR on [{item['number']}]({pull_request_url}) - [{item['repository_url'][29:]}]({new_repo_url})")
+         pr_list.append(f"{serial_number}. {emoticon} Merged PR [{item['number']}]({pull_request_url}) - [{item['repository_url'][29:]}]({new_repo_url})")
          count=count+1
          
          # Provide the number of PRs you want to show in the README
@@ -48,3 +48,4 @@ if __name__ == "__main__":
 
         with open("README.md", "w") as f:
             f.write(new_readme_content)
+
