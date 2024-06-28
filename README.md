@@ -212,11 +212,11 @@ I am a passionate Fullstack Web3 Developer with a strong foundation in both fron
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/pymc-labs/CausalPy/pull/379#issuecomment-2194593096) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-2. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2194484644) in [actualbudget/actual](https://github.com/actualbudget/actual)
-3. 🗣 Commented on [#126](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2192656530) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
-4. 🗣 Commented on [#374](https://github.com/pymc-labs/CausalPy/issues/374#issuecomment-2192508362) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-5. 💪 Opened PR [#379](https://github.com/pymc-labs/CausalPy/pull/379) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
+1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2195672106) in [actualbudget/actual](https://github.com/actualbudget/actual)
+2. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2195626278) in [actualbudget/actual](https://github.com/actualbudget/actual)
+3. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2195617492) in [actualbudget/actual](https://github.com/actualbudget/actual)
+4. 🗣 Commented on [#379](https://github.com/pymc-labs/CausalPy/pull/379#issuecomment-2195597572) in [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
+5. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2195590926) in [actualbudget/actual](https://github.com/actualbudget/actual)
 <!--END_SECTION:activity-->
 
 
