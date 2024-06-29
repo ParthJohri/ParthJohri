@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"/>, I'm Parth Johri</h2>
+<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Parth Johri</h2>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 Fullstack Developer
