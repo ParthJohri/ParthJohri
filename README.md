@@ -212,11 +212,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
-2. 🗣 Commented on [#4985](https://github.com/CircuitVerse/CircuitVerse/issues/4985#issuecomment-2196141028) in [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)
-3. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2195672106) in [actualbudget/actual](https://github.com/actualbudget/actual)
-4. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2195626278) in [actualbudget/actual](https://github.com/actualbudget/actual)
-5. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2195617492) in [actualbudget/actual](https://github.com/actualbudget/actual)
+1. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198477998) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+2. 🔒 Closed issue [#1](https://github.com/ParthJohri/voiceToText/issues/1) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+3. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198477927) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+4. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198458380) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+5. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
 <!--END_SECTION:activity-->
 
 
