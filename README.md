@@ -212,11 +212,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2206202822) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
-2. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2204677715) in [actualbudget/actual](https://github.com/actualbudget/actual)
-3. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198477998) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
-4. 🔒 Closed issue [#1](https://github.com/ParthJohri/voiceToText/issues/1) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
-5. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198477927) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+1. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2209880628) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
+2. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2206202822) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
+3. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2204677715) in [actualbudget/actual](https://github.com/actualbudget/actual)
+4. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198477998) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+5. 🔒 Closed issue [#1](https://github.com/ParthJohri/voiceToText/issues/1) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
 <!--END_SECTION:activity-->
 
 
