@@ -212,11 +212,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2212357144) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
-2. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2211005650) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
-3. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2209880628) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
-4. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2206202822) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
-5. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2204677715) in [actualbudget/actual](https://github.com/actualbudget/actual)
+1. 🗣 Commented on [#126](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2242632304) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
+2. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2212357144) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
+3. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2211005650) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
+4. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2209880628) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
+5. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2206202822) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
 <!--END_SECTION:activity-->
 
 
