@@ -145,17 +145,17 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
   ### Leetcode
   <div align="center">
- 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/binarysolver?theme=auto&font=baloo&extension=null)
- 
-  </div>
+  <a href="https://leetcode.com/binarysolver">
+  <img height="316" src="https://leetcard.jacoblin.cool/binarysolver?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/binarysolver/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Binary Solver Leetcode Stats"/>
+  </a>
+ </div>
 
 
   ### Codeforces
   <div align="center">
- 
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=binarysolver)
- 
+    <a href="https://codeforces.com/profile/binarysolver">
+      <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=binarysolver&theme=github_dark&force_username=true&border_color=404040" alt="Binary Solver Codeforces Stats"/>
+    </a>
   </div>
   
   ### GitHub
