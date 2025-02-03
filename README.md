@@ -179,9 +179,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   <a href="https://linkedin.com/in/parthjohri07">
     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
   </a>
-  <a href="https://www.quora.com/profile/Parth-Johri-6">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
-  </a>
 </div>
 
   
