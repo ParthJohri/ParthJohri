@@ -16,6 +16,9 @@ Fullstack Developer
 
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN, Android Development, and Chatbot Development</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
+  
+[![Open to Work](https://img.shields.io/badge/Open%20to%20WORK-SDE%20roles-brightgreen?style=for-the-badge)](mailto:contact.parthjohri@gmail.com)
+  
 <details>
  <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
  
@@ -235,5 +238,6 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
   </picture>
+
 </div>
 
