@@ -204,7 +204,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <!--Start Merged PRs-->
 1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
 2. 🎉 Merged PR [876](https://github.com/glasskube/glasskube/pull/876) - [glasskube/glasskube](https://github.com/glasskube/glasskube)
-3. 🎊 Merged PR [50](https://github.com/RajeshTechForge/PINAC_Workspace_2.0/pull/50) - [RajeshTechForge/PINAC_Workspace_2.0](https://github.com/RajeshTechForge/PINAC_Workspace_2.0)
+3. 🎊 Merged PR [50](https://github.com/RajeshTechForge/pinac_workspace/pull/50) - [RajeshTechForge/pinac_workspace](https://github.com/RajeshTechForge/pinac_workspace)
 4. 🥂 Merged PR [2](https://github.com/ManasviGaur/Vegetable-freshness-detection/pull/2) - [ManasviGaur/Vegetable-freshness-detection](https://github.com/ManasviGaur/Vegetable-freshness-detection)
 5. 🙌🏼 Merged PR [1](https://github.com/parth782/Movie-Recommendation/pull/1) - [parth782/Movie-Recommendation](https://github.com/parth782/Movie-Recommendation)
 <!--Finish Merged PRs-->
