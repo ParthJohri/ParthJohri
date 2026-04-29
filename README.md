@@ -198,12 +198,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### ✅ Merged PRs
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-2-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-8-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [178](https://github.com/flyingSaucer87/los-pollos-hermanos/pull/178) - [flyingSaucer87/los-pollos-hermanos](https://github.com/flyingSaucer87/los-pollos-hermanos)
-2. 🎉 Merged PR [83](https://github.com/abhijitmondal121/Hacktoberfest2022-profileCardGenerator/pull/83) - [abhijitmondal121/Hacktoberfest2022-profileCardGenerator](https://github.com/abhijitmondal121/Hacktoberfest2022-profileCardGenerator)
+1. 🥳 Merged PR [7](https://github.com/parth782/KrishiMarket/pull/7) - [parth782/KrishiMarket](https://github.com/parth782/KrishiMarket)
+2. 🎉 Merged PR [178](https://github.com/flyingSaucer87/los-pollos-hermanos/pull/178) - [flyingSaucer87/los-pollos-hermanos](https://github.com/flyingSaucer87/los-pollos-hermanos)
+3. 🎊 Merged PR [83](https://github.com/abhijitmondal121/Hacktoberfest2022-profileCardGenerator/pull/83) - [abhijitmondal121/Hacktoberfest2022-profileCardGenerator](https://github.com/abhijitmondal121/Hacktoberfest2022-profileCardGenerator)
+4. 🥂 Merged PR [83](https://github.com/BlackTimber-Labs/HacktoberFest2021/pull/83) - [BlackTimber-Labs/HacktoberFest2021](https://github.com/BlackTimber-Labs/HacktoberFest2021)
+5. 🙌🏼 Merged PR [111](https://github.com/stoicfeats/Hacktoberfest-2021/pull/111) - [stoicfeats/Hacktoberfest-2021](https://github.com/stoicfeats/Hacktoberfest-2021)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
