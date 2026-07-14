@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Parth Johri</h2>
+<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Parth Johri</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-Fullstack Developer
+Systems Engineer · Cloud-Native Telecom Infrastructure
 <a href="https://parth-johri.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
@@ -14,37 +14,42 @@ Fullstack Developer
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong>MERN, Android Development, and Chatbot Development</strong> with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I'm a **Scientist-B at C-DOT** (Centre for Development of Telematics), where I build and operate **carrier-grade 4G IMS/VoLTE infrastructure** as cloud-native systems on **Kubernetes**. My work sits at the intersection of <strong>C systems programming, Linux networking (SIP, TLS, IPsec), and platform engineering (K8s, Docker, Helm, CI/CD)</strong> — including load testing at 50,000 concurrent subscribers and debugging systems at the packet and kernel level. I like the hard problems: why systems fall over under load, and what the packet capture says really happened. I also contribute to open source (Glasskube — a Kubernetes package manager, CausalPy) and still ship the occasional full-stack project.
 
-  
-[![Open to Work](https://img.shields.io/badge/Open%20to%20WORK-SDE%20roles-brightgreen?style=for-the-badge)](mailto:contact.parthjohri@gmail.com)
-  
+[![Open to Work](https://img.shields.io/badge/Open%20to%20WORK-SDE%20%7C%20Infrastructure%20roles-brightgreen?style=for-the-badge)](mailto:contact.parthjohri@gmail.com)
+
 <details>
  <summary><h2> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
- 
+
  <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
-  <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24_(CS_Minor)-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
-  
+  <span><img src="https://img.shields.io/badge/Dept_Rank-3rd-FFD700?style=for-the-badge"></span>
+
 </details>
  <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
+- **Scientist-B (Software Engineer — IMS/VoLTE Core)** at Centre for Development of Telematics (C-DOT) | Aug 2024 - Present
+  - Develop, deploy, and test a production-grade 4G IMS core running as containerized workloads on Kubernetes.
+  - Engineered a K8s-native crash-reporting system that automatically captures packet traces, logs, and diagnostic artifacts on pod crashes/restarts — cutting fault triage from hours to minutes.
+  - Designed and validated single-VM and multi-VM P-CSCF deployment architectures for scalability and high availability.
+  - Load/stress testing with Spirent at up to **50,000 concurrent subscribers**; performance bottleneck analysis and resolution.
+  - Implemented secure SIP signalling with **TLS 1.3**, IPv4/IPv6 interworking, and VoWiFi across distributed deployments.
+
 - **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
-  - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
-  - Enhanced data accuracy by 30% through seamless integration of smart contracts into the front-end.
-  - Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%.
+  - Built and integrated smart-contract-backed interfaces for Magpie, Cakepie, and Eigenpie; interfaces shipped processed **$200M+** in deposits.
+  - Improved on-chain data verification (+30% data accuracy) and reduced user-reported bugs by 20% via performance and responsiveness fixes.
 
 - **Content Strategist - MERN Stack Intern** at TestBook (Remote) | Oct 2022 - Nov 2022
-  - Enhanced interactive coursework modules for data structures and web development, increasing student engagement by 30%.
-  - Mentored over 100 students in DSA & Web Development, significantly improving their technical proficiency.
+  - Built interactive DSA/web-dev coursework modules; mentored 100+ students, raising engagement by 30%.
 
 - **Content Writer Intern** at Toppr Learning Inc (Remote) | Jul 2021 - Oct 2021
-  - Transformed JEE Mathematics learning for over 10 batches by designing innovative visual-based presentations and solutions.
+  - Created JEE Mathematics content and visual-first solutions for 10 batches.
 </details>
-  
+
 <details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
 
@@ -59,47 +64,49 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <details>
   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
-  #### Languages
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  #### Cloud-Native & Infrastructure
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-  #### Libraries/Frameworks
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+  #### Networking & Diagnostics
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+  ![tcpdump](https://img.shields.io/badge/tcpdump-333333?style=for-the-badge)
+  ![SIP](https://img.shields.io/badge/SIP-005571?style=for-the-badge)
+  ![TLS 1.3](https://img.shields.io/badge/TLS%201.3-4B0082?style=for-the-badge)
+  ![IPsec](https://img.shields.io/badge/IPsec%20%2F%20XFRM-2F4F4F?style=for-the-badge)
+  ![iptables](https://img.shields.io/badge/iptables-CE4E1D?style=for-the-badge)
+  ![Spirent](https://img.shields.io/badge/Spirent-CC0000?style=for-the-badge)
+
+  #### Languages
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+  #### Web Development
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+  #### Databases
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-  #### Deployment
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
   #### Tools
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-  ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
-  ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-EE3D8F?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) 
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </details>
 
@@ -240,4 +247,3 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   </picture>
 
 </div>
-
